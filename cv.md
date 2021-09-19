@@ -11,9 +11,9 @@
 ----
 Contacts:
 
-![mobile](https://ibb.co/8MD0KyB) +79120033668
-![mail](https://ibb.co/t8f4J6h) letstrypoker@gmail.com
-![githublogo](https://ibb.co/yQ9RnVy) https://github.com/lookingtooking
+![mobile](https://i.ibb.co/CB5z1jt/telephone-button.png) +79120033668
+![mail](https://i.ibb.co/xJvD7bs/mail.png) letstrypoker@gmail.com
+![githublogo](https://i.ibb.co/Js1dRC7/github-logo.png) https://github.com/lookingtooking
 
 
 ### Work Experience
@@ -49,7 +49,7 @@ Contacts:
 - Work with a team of engineers and ceate 2D and 3D models of products according to design specifications
 - Verify and modify drawings made by other engineers
 - Participated in team meetings and offered suggestions for modifications
-- ---
+----
 ### Education
 
 > #### September 2009 - January 2015
