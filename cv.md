@@ -12,7 +12,9 @@ Contacts:
 
 <img src="https://i.ibb.co/CB5z1jt/telephone-button.png" alt="telephone-logo" width="15" height="15">
 +79120033668
+
 <img src="https://i.ibb.co/xJvD7bs/mail.png" alt="mail-logo" width="15" height="15">letstrypoker@gmail.com
+
 <img src="https://i.ibb.co/Js1dRC7/github-logo.png" alt="github-logo" width="15" height="15">https://github.com/lookingtooking
 
 
