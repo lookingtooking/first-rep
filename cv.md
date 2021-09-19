@@ -1,5 +1,5 @@
 <p class="avatar">
-    <img src="https://i.ibb.co/pbxt4MQ/1593-oooo-plus.png" alt="avatar" width="200" height="200">
+    <img src="https://i.ibb.co/pbxt4MQ/1593-oooo-plus.png" alt="avatar" width="300" height="300">
 </p>
 <style>
  .avatar {
@@ -10,9 +10,10 @@
 ----
 Contacts:
 
-![mobile](https://i.ibb.co/CB5z1jt/telephone-button.png) +79120033668
-![mail](https://i.ibb.co/xJvD7bs/mail.png) letstrypoker@gmail.com
-![githublogo](https://i.ibb.co/Js1dRC7/github-logo.png) https://github.com/lookingtooking
+<img src="https://i.ibb.co/CB5z1jt/telephone-button.png" alt="telephone-logo" width="15" height="15">
++79120033668
+<img src="https://i.ibb.co/xJvD7bs/mail.png" alt="mail-logo" width="15" height="15">letstrypoker@gmail.com
+<img src="https://i.ibb.co/Js1dRC7/github-logo.png" alt="github-logo" width="15" height="15">https://github.com/lookingtooking
 
 
 ### Work Experience
