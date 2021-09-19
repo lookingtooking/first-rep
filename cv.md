@@ -1,11 +1,9 @@
 <p class="avatar">
-    <img src="https://i.ibb.co/pbxt4MQ/1593-oooo-plus.png" alt="avatar">
+    <img src="https://i.ibb.co/pbxt4MQ/1593-oooo-plus.png" alt="avatar" width="200" height="200">
 </p>
 <style>
  .avatar {
     text-align: center;
-	width: 200 px;
-    height: 200 px;
 	}
 </style>
 <p style="text-align: center; font-size: 36px"> Lukin Dmitriy </p>
