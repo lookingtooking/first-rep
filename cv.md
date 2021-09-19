@@ -4,7 +4,8 @@
 <style>
  .avatar {
     text-align: center;
-	size: 20%
+	width: 200 px;
+    height: 200 px;
 	}
 </style>
 <p style="text-align: center; font-size: 36px"> Lukin Dmitriy </p>
