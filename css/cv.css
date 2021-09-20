@@ -1,0 +1,24 @@
+.section {
+  padding: 100px;
+}
+
+.section:nth-child(even) {
+  background-color: #f3f3f3;
+}
+
+.section:nth-child(odd) {
+  background-color: white;
+}
+
+.section .h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.section-contacts {
+  padding: 50px 100px;
+}
+
+.section-about p {
+  text-align: center;
+}
