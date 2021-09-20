@@ -15,9 +15,9 @@ Contacts:
 
 <img src="https://i.ibb.co/xJvD7bs/mail.png" alt="mail-logo" width="15" height="15"> letstrypoker@gmail.com
 
-<img src="https://i.ibb.co/Js1dRC7/github-logo.png" alt="github-logo" width="15" height="15"> https://github.com/lookingtooking
-
-
+<img src="https://i.ibb.co/Js1dRC7/github-logo.png" alt="github-logo" width="15" height="15"> [Lukin Dmitriy](https://github.com/lookingtooking)
+### About me
+I'm almost 30 and I've never had a real job in IT. My goal is to fix it and keep improve developing experience.
 ### Work Experience
 
 > #### April 2015 - August 2021
